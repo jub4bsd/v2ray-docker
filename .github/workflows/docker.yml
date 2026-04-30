@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jub4k/kira:latest
+          tags: jub4a/kira:latest
